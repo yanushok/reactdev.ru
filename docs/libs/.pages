@@ -8,7 +8,7 @@ nav:
     - react-router.6
     - redux
     - redux-toolkit.md
-    - react-query.md
+    - react-query
     - react-spring.md
     - styled-components.md
     - xstate

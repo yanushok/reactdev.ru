@@ -18,7 +18,7 @@
 [Redux Toolkit](redux-toolkit.md)
 : Пакет, облегчающий работу с Redux
 
-[React Query](react-query.md)
+[React Query](react-query/docs.md)
 : Библиотека для получения, кэширования, синхронизации и обновления "серверного" состояния в React-приложениях
 
 [React Spring](react-spring.md)

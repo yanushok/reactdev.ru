@@ -1,0 +1,29 @@
+title: React Query
+nav:
+    - docs.md
+    - Практический React Query:
+        - Введение: practical.md
+        - Преобразование данных: data-transformations.md
+        - Оптимизация рендера: render-optimizations.md
+        - Проверка состояния: status-checks.md
+        - Тестирование: testing.md
+        - Typescript: typescript.md
+        - Использование WebSockets: websockets.md
+        - Эффективные ключи запросов: keys.md
+        - Контекст Query Function: leveraging-context.md
+        - Заполнители и начальные данные: placeholder-and-initial-data.md
+        - React Query как стейт-менеджер: state-manager.md
+        - Обработка ошибок: error-handling.md
+        - Освоение мутаций: mastering-mutations.md
+        - Работа offline: offline.md
+        - Работа с формами: forms.md
+        - FAQs: faq.md
+        - React Query и React Router: react-router.md
+        - Заполнение кэша запросов: cache.md
+        - React Query изнутри: inside.md
+        - Типобезопасный React Query: type-safe-react-query.md
+        - Возможно, вам не нужен React Query: you-might-not-need-react-query.md
+        - Мышление в стиле React Query: thinking.md
+        - React Query и React Context: react-context.md
+        - Зачем вам нужен React Query: why-you-want-need-react-query.md
+        - API опций запроса: api-query-options.md
